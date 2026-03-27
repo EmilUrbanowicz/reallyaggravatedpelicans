@@ -16,5 +16,8 @@ public class player : MonoBehaviour
             transform.position += Vector3.forward * 0.5f;
         }
 
-    }
+
+
+        }
+
 }
