@@ -11,13 +11,7 @@ public class player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.W))
-        {
-            transform.position += Vector3.forward * 0.5f;
-        }
 
-
-
-        }
+    }
 
 }
